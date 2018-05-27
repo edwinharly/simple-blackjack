@@ -8,5 +8,7 @@ Made with Unity 2018.1.0f2 Personal (64bit)
 ### TODO
 
 - [ ] Animation
-- [ ] Background Music
+- [ ] Music & Sound
 - [ ] UI Improvement
+- [ ] Double Down option
+- [ ] Split Option
